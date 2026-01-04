@@ -35,8 +35,7 @@ pyinstaller --onefile --windowed --name="大纲转PPT v4.1" --icon=icon.ico "md�
 打包后 dist 文件夹里就是一个 exe，双击即用，无需任何环境。
 
 三、界面总览与功能示例
-text
-<img width="771" height="385" alt="image" src="https://github.com/user-attachments/assets/d7ef1357-8fa4-456a-8c5d-29e6c3006c10" />
+<img width="475" height="716" alt="image" src="https://github.com/user-attachments/assets/f041ddb2-e00a-4ff4-880b-6ab327efd2f5" />
 <img width="1901" height="1005" alt="image" src="https://github.com/user-attachments/assets/88cc5737-4c78-48be-a305-1d43be7d958e" />
 <img width="1500" height="773" alt="image" src="https://github.com/user-attachments/assets/08c5f520-7e86-4b88-aaed-75cf092cdac0" />
 
@@ -51,3 +50,5 @@ Q&A 环节
 选择公司模板（重磅！）
 点击「选择」按钮 → 选中你公司的标准 PPT 模板（.pptx）
 以后所有生成的 PPT 都会自动套用公司配色、Logo、页脚、字体规范
+
+六、目前表格显示还是有点问题，需要编辑优化。
