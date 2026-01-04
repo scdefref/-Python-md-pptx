@@ -36,6 +36,7 @@ pyinstaller --onefile --windowed --name="大纲转PPT v4.1" --icon=icon.ico "md�
 
 三、界面总览与功能示例
 text
+<img width="771" height="385" alt="image" src="https://github.com/user-attachments/assets/d7ef1357-8fa4-456a-8c5d-29e6c3006c10" />
 <img width="1901" height="1005" alt="image" src="https://github.com/user-attachments/assets/88cc5737-4c78-48be-a305-1d43be7d958e" />
 <img width="1500" height="773" alt="image" src="https://github.com/user-attachments/assets/08c5f520-7e86-4b88-aaed-75cf092cdac0" />
 
