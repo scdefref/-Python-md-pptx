@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-大纲转PPT工具 v4.1 (修复版)
+大纲转PPT工具 v1.1 (修复版)
 修复段落格式设置问题
 """
 
@@ -96,7 +96,7 @@ class PPTGeneratorTool(QMainWindow):
         self._apply_theme()
 
     def _init_ui(self):
-        self.setWindowTitle("大纲转 PPT 工具 v4.1")
+        self.setWindowTitle("大纲转 PPT 工具 v1.1")
         self.resize(1050, 750)
         self.setMinimumSize(850, 600)
 
@@ -756,7 +756,7 @@ class PPTGeneratorTool(QMainWindow):
     def _show_about(self):
         QMessageBox.about(
             self, "关于",
-            "<h3>大纲转PPT v4.1</h3>"
+            "<h3>大纲转PPT v1.1</h3>"
             "<p>Markdown/文本 → PowerPoint</p>"
             "<hr><b>功能:</b><ul>"
             "<li>自定义模板</li>"
@@ -782,4 +782,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
